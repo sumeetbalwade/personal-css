@@ -105,6 +105,32 @@ hr {
   margin-bottom: 150px;
 }
 
+
+.bottom{
+  margin: 0px;
+  text-align: center;
+}
+
+.footer-link{
+  color: white;
+  font-style: normal;
+  padding-left: 20px;
+  text-align: center;
+}
+
+.bottom-container{
+  background-color: black;
+  padding: 50px 0px 25px 0px;
+}
+
+.footer-link:hover{
+  color: blueviolet;
+}
+
+#btcolor{
+  color: #6a2c70;
+}
+
 /*******************************main background******************************/
 #main {
   background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
